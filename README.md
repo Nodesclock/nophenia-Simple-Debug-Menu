@@ -1,5 +1,5 @@
 # nophenia-Simple-Debug-Menu
-## Simple Debug Menu for nophenia, is NOT compatible with multiplayer at the moment.
+### Simple Debug Menu for nophenia, is NOT compatible with multiplayer at the moment.
 
 # Install
 - Install Python 3 if you don't already have it.
