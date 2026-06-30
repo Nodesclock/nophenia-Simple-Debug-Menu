@@ -9,4 +9,4 @@ Linux: python3 install.py "/path/to/steamapps/common/nophenia"
 Windows: python install.py "C:\Program Files (x86)\Steam\steamapps\common\nophenia" (run the terminal as Administrator if the game is in Program Files)
 Launch the game. F2 opens the debug overlay - F3 noclip, F4 fly, F5 freecam, F6 spawn menu, F7 unstuck, F10 phone Debug page.
 (To uninstall: python install.py --uninstall "<game folder>")
-# WARNING: Spawn menu is VERY broke and WILL break your game. Also, Debug Menu paired with Flashlight allows flashlight calibration
+### WARNING: Spawn menu is VERY broke and WILL break your game. Also, Debug Menu paired with Flashlight allows flashlight calibration
