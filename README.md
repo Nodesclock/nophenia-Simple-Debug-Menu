@@ -51,7 +51,7 @@ Launch the game. Debug Menu is available in the phone menu or through keybinds l
 
 ### If you like this mod, donations are appreciated but completely optional.
 
-#### Donatations for me to go to college:
+#### Donations for me to go to college:
 ##### XMR: 85CEmWGzbcMXPq8PzRBKYWGPDuVV6QLacLpYf9DiMDQdGyyzEqmPnBk5RB3xLsQ9PEB8UQcYUSvJY9HxHJCTaMXoD3EzooE
 
 ##### LTC: ltc1q4zhq6sszzwvez79g9drzs29q9f5czdv9kcqtcc
